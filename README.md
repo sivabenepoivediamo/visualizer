@@ -88,4 +88,4 @@ Works in all modern browsers with WebGL support:
 
 ## License
 
-Open source - feel free to modify and use as needed.
+MIT License
