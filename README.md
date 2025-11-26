@@ -1,4 +1,4 @@
-# Musical Tonnetz Visualizer
+# Musical Data Visualizer
 
 An interactive 3D visualization tool for exploring musical scales, chords, and harmonic relationships in a cylindrical pitch space.
 
