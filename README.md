@@ -52,7 +52,7 @@ This web application creates a three-dimensional "tonnetz" (tone network) that d
 
 The app loads with a demonstration showing:
 - C Major scale (0,2,4,5,7,9,11)
-- Three chord progression
+- Three chord progression (ii-V7-I)
 - Automatic transitions every 1.5 seconds
 
 ## Technical Details
@@ -73,8 +73,8 @@ Degrees: 0; 3; 4; 0
 
 ### Minor ii-V-i Progression
 ```
-Scales: 0,2,3,5,7,8,10; 0,2,3,5,7,8,10; 0,2,3,5,7,8,10
-Chords: 62,65,69; 65,68,71,74; 60,63,67
+Scales: 0,2,3,5,7,8,10; 0,2,3,5,7,8,11; 0,2,3,5,7,8,11
+Chords: 62,65,68, 72; 67,71,74,77; 60,63,67,71
 Degrees: 1; 4; 0
 ```
 
